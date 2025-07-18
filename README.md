@@ -1,1 +1,1 @@
-# automatic-light-controller-using-LPC1768-and-IR-sensors
+# Automatic light controller using LPC1768 and IR-sensors
