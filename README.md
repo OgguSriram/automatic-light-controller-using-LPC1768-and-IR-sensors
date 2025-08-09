@@ -1,4 +1,4 @@
-# AUtomatic light controller🚦💡
+# Automatic light controller🚦💡
 
 This project implements an intelligent lighting system using LPC1768 and dual IR sensors to automate lighting based on room occupancy, optimizing energy usage.
 
